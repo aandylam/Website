@@ -1,0 +1,22 @@
+.title {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #EE4E34;
+    font-weight: 700;
+}
+
+.subtitle {
+    font-family:'Roboto Condensed', sans-serif;
+    color:#EE4E34;
+    font-weight:700;
+}
+.background {
+    background-color: #FCEDDA;
+    width: 100%;
+    margin:0;
+
+}
+
+.d-block {
+    border:5px solid black;
+    border-radius:50%;
+}
